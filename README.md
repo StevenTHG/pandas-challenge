@@ -1,1 +1,9 @@
-# pandas-challenge
+# Pandas Challenge
+
+Included in this repo is a "PyCitySchools" folder that contains a "Resources" folder along with a Jupyter Notebook that attempts the following task: given data on students, their test scores, and various information on their schools, use Python's Pandas package to aggregate the data to observe trends in school performanace.
+
+## Analysis
+
+From preliminary analysis, we can see that there are 15 schools with a combined 39,170 students and a total budget of $24,649,428. Additionally, from all the students, the average math and reading score were 78.985371 and 81.87784, respectively. As a result, 74.980853% of students are passing math, 85.805463% of students are passing reading, and 65.172326% of students are passing overall.
+
+When we break down these values by school, we notice that the top 5 performing schools were Cabrera High School, Thomas High School, Griffin High School, Wilson High School, and Pena High School. On the other hand, the bottom 5 performing schools were Rodriguez High School, Figueroa High School, Huang High School, Hernandez High School, and Johnson High School. The average math and reading score was also grouped by grade, but had minor differences between the grades. However, when the data was grouped by school spending, we can see that both scores and percentage of students passing decreased as the spending ranges increased. The same could not be seen when the data was grouped by school size. Here, small and medium sized schools performed similar, while large schools performed significantly worse. Finally, the data was grouped by school types and displayed Charter schools higher averages and percentage passing than District schools. 
